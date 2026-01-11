@@ -1,7 +1,7 @@
 
 
 
-var one = document.getElementById('1');
+var button = document.getElementById('1');
 
 
 
@@ -37,6 +37,7 @@ var znamenatel = 18.6 * dlina25 + 26 * dlina32 + 27 * dlina34 + 50 * dlina57 + 5
      
    
     
+
 
 
 
